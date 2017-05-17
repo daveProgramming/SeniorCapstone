@@ -1,0 +1,1 @@
+These are the scripts and classes that I made for my senior Capstone. I was in charge of the UI, sound, and localization programming for the game. 
